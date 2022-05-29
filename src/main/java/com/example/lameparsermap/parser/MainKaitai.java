@@ -1,8 +1,8 @@
 package com.example.lameparsermap.parser;
 
-import com.example.lameparsermap.EthernetFrame;
-import com.example.lameparsermap.Ipv4Packet;
-import com.example.lameparsermap.Pcap;
+import com.example.lameparsermap.structs.EthernetFrame;
+import com.example.lameparsermap.structs.Ipv4Packet;
+import com.example.lameparsermap.structs.Pcap;
 
 import java.io.IOException;
 import java.util.Arrays;

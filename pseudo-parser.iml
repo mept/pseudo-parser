@@ -8,14 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="jdk" jdkName="corretto-1.8" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="pkts" level="project" />
-    <orderEntry type="module" module-name="pkts-core" />
-    <orderEntry type="module" module-name="pkts-buffers" />
-    <orderEntry type="module" module-name="pkts-sip" />
-    <orderEntry type="module" module-name="pkts-sdp" />
-    <orderEntry type="library" name="Maven: javax.sip:jain-sip-ri:1.2.159" level="project" />
     <orderEntry type="library" name="Maven: io.kaitai:kaitai-struct-runtime:0.9" level="project" />
     <orderEntry type="library" name="Maven: javax.xml.bind:jaxb-api:2.3.0" level="project" />
   </component>
